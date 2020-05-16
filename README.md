@@ -1,6 +1,6 @@
 # twitter-dev-nodejs
 
-Instalation guide:
+Installation guide:
 
 1. clone repo "git clone https://github.com/eriksilvand/twitter-dev-nodejs.git"
 2. run "yarn install" to download all dependencies
